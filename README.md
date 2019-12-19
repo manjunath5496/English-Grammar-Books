@@ -40,7 +40,7 @@
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/English-Grammar-Books/blob/master/eng(26).pdf" style="text-decoration:none;">Better English Grammar</a></b></li>  
      <li><b><a target="_blank" href="https://github.com/manjunath5496/English-Grammar-Books/blob/master/eng(27).pdf" style="text-decoration:none;">English Grammar (Tests)</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/English-Grammar-Books/blob/master/eng(28).pdf" style="text-decoration:none;">Neurology: A Clinician's Approach </a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/English-Grammar-Books/blob/master/eng(28).pdf" style="text-decoration:none;">Effortless English: Learn To Speak English Like A Native </a></b></li>  
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/English-Grammar-Books/blob/master/eng(29).pdf" style="text-decoration:none;">Fluent English  </a></b></li>  
 
@@ -101,6 +101,9 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/English-Grammar-Books/blob/master/eng(56).pdf" style="text-decoration:none;"> 501 grammar and writing questions</a></b></li>  
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/English-Grammar-Books/blob/master/eng(57).pdf" style="text-decoration:none;">English: Speak Like a Native in 1 Lesson for Busy People</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/English-Grammar-Books/blob/master/eng(58).pdf" style="text-decoration:none;"> Improve Your English: English in Everyday Life</a></b></li>  
 
 
 
